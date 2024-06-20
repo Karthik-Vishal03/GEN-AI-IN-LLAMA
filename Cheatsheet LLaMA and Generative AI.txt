@@ -1,0 +1,49 @@
+Cheatsheet: LLaMA and Generative AI
+
+1. Introduction to Generative AI
+
+Definition: Generative AI refers to systems that create new content, such as text, images, or music, mimicking human creativity.
+Evolution: From rule-based systems to deep learning models like GANs and Transformers.
+
+2. Evolution of Transformers
+
+Definition: Transformer models use self-attention mechanisms to process sequential data, enabling parallel computation and capturing long-range dependencies.
+Advancements:
+Introduction of BERT (Bidirectional Encoder Representations from Transformers) for language understanding.
+GPT (Generative Pre-trained Transformer) series for text generation and completion.
+Applications expanded to translation, summarization, and dialogue generation.
+
+3. LLaMA (Large Language Model Meta AI)
+
+Definition: Developed by Meta, LLaMA is a large language model designed for various natural language processing tasks.
+Applications:
+Text generation: Writing articles, stories, and poetry.
+Conversational AI: Chatbots, virtual assistants.
+Content creation: Generating code, music, and artwork.
+
+4. Applications of Generative AI
+
+Text Generation:
+Automated content creation for news, blogs, and social media.
+Personalized email marketing campaigns.
+Image Generation:
+Artwork creation and style transfer.
+Medical imaging enhancement and synthesis.
+Music Composition:
+Generating melodies, harmonies, and entire compositions.
+Remixing and creating new genres.
+Video Synthesis:
+Deepfake generation for entertainment and special effects.
+Video summarization and content creation.
+
+5. Future Trends in Generative AI
+
+Enhanced Model Capabilities:
+Multimodal integration (e.g., combining text and images).
+Real-time interactive AI systems.
+Ethical and Responsible AI:
+Bias reduction and fairness in AI-generated content.
+Transparency and explainability of AI decisions.
+Customization and Personalization:
+Tailoring outputs based on user preferences.
+Domain-specific and industry-specific applications.
