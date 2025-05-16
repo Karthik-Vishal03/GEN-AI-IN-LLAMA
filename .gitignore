@@ -1,1 +1,4 @@
 venv/
+src/__pycache__
+src/components/__pycache__
+src/services/__pycache__
